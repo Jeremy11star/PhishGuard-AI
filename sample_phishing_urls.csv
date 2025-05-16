@@ -1,0 +1,17 @@
+url,is_phishing
+https://google.com,0
+https://facebook.com,0
+https://amazon.com,0
+https://microsoft.com,0
+https://apple.com,0
+https://twitter.com,0
+http://g00gle-security-alert.com,1
+http://faceb00k-verify-account.net,1
+http://amaz0n-order-confirmation.info,1
+http://micr0soft-account-verify.xyz,1
+http://verify-apple-id-now.com,1
+http://tw1tter-account-locked.info,1
+https://banking-secure-login.com,1
+http://paypal-confirm-details.net,1
+http://unusual-activity-alert.com,1
+http://reset-password-secure.net,1
